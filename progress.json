@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T14:41:39.611Z",
+  "generated_at": "2026-11-18T14:41:42.001Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -36,7 +36,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-08-10T17:27:58.471Z",
-      "last_pushed_at": "2026-08-10T17:27:58.471Z"
+      "last_pushed_at": "2026-11-18T14:41:41.998Z"
     },
     "math:9": {
       "kind": "math",
@@ -47,7 +47,7 @@
       "url": "https://www.deep-ml.com/math-problems/9",
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-08-19T20:23:21.719Z",
-      "last_pushed_at": "2026-08-19T20:23:21.719Z"
+      "last_pushed_at": "2026-11-18T14:41:41.999Z"
     },
     "math:10": {
       "kind": "math",
@@ -58,7 +58,7 @@
       "url": "https://www.deep-ml.com/math-problems/10",
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-08-20T02:21:40.941Z",
-      "last_pushed_at": "2026-08-20T02:21:40.941Z"
+      "last_pushed_at": "2026-11-18T14:41:41.999Z"
     },
     "math:8": {
       "kind": "math",
@@ -69,7 +69,7 @@
       "url": "https://www.deep-ml.com/math-problems/8",
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-09-10T17:30:50.304Z",
-      "last_pushed_at": "2026-09-10T17:30:50.304Z"
+      "last_pushed_at": "2026-11-18T14:41:41.999Z"
     },
     "problem:121": {
       "kind": "problem",
@@ -83,6 +83,17 @@
       "last_pushed_at": "2026-09-10T18:04:34.030Z",
       "language": "python",
       "lines": 11
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-11-18T14:41:41.998Z",
+      "last_pushed_at": "2026-11-18T14:41:41.998Z"
     }
   }
 }
